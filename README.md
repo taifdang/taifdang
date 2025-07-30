@@ -17,7 +17,7 @@
 ###
 
 <p>
-  My name is Taif and I'm a student at the HUFLIT University, from Vietnam. My major is sofware technolgies, I'm currently learning about 
+  My name is Taif and I'm from Vietnam. My major is sofware technolgies, I'm currently learning about 
   .NET and I love C# applications, and other mysterious programs and software! with goal learn new things.
 </p>
 

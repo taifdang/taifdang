@@ -17,7 +17,7 @@
 ###
 
 <p>
-  My name is Taif and I'm from Vietnam. My major is sofware technolgies, I'm currently learning about 
+  My name is Taif and I'm from Vietnam. My major is software technolgies, I'm currently learning about 
   .NET and I love C# applications, and other mysterious programs and software! with goal learn new things.
   I hope to become a better version of myself in the near future.
 </p>

@@ -30,7 +30,6 @@
   <li>🛍️ https://github.com/taifdang/mobile-shop-online</li>
   <li>🔥 https://github.com/taifdang/clothes-backend</li>
   <li>🛒 https://github.com/taifdang/redis-shoppingcart-cscharp</li>
-  <li>💀 https://github.com/taifdang/auto-manager</li>
 </ul>
 
 ###

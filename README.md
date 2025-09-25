@@ -23,7 +23,6 @@
 </p>
 
 <h2 align="center">🚀 Open Source Projects and Contributions </h2>
-
 ###
 <ul>
   <li>✨ https://github.com/taifdang/notification-modular-monolith</li>

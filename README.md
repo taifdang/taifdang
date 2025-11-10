@@ -1,6 +1,5 @@
 <h1 align="center">Hi there, I'm taifdang👋</h1>
 
-
 ###
 <div align="center">
   <a href="https://www.linkedin.com/in/taifdang/">

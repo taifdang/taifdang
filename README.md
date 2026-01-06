@@ -1,6 +1,7 @@
 <h1 align="center">Hi there, I'm taifdang👋</h1>
 
 ###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/taifdang/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -23,6 +24,7 @@
 <h2 align="center">🚀 Open Source Projects and Contributions </h2>
 
 ###
+
 <ul>
   <li>✨ https://github.com/taifdang/notification-modular-monolith</li>
   <li>🛍️ https://github.com/taifdang/mobile-shop-online</li>

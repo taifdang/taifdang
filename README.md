@@ -27,8 +27,7 @@
 
 <ul>
   <li>✨ https://github.com/taifdang/notification-modular-monolith</li>
-  <li>🛍️ https://github.com/taifdang/mobile-shop-online</li>
-  <li>🔥 https://github.com/taifdang/eshop</li>
+  <li>🛍️ https://github.com/taifdang/eshop</li>
   <li>🛒 https://github.com/taifdang/redis-shoppingcart-cscharp</li>
 </ul>
 

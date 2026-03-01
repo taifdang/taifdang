@@ -14,9 +14,10 @@
 
 ###
 <p>
-  My name is Taif and I'm from Vietnam. My major is software technolgies, I'm currently learning about 
-  .NET and I love C# applications, and other mysterious programs and software! with goal learn new things.
-  I hope to become a better version of myself in the near future.
+  My name is Tai, and I’m from Vietnam.
+  I study Software Technology and am currently learning .NET and other technologies.
+  I enjoy learning new things and improving my skills.
+  My goal is to become a better version of myself in the near future.
 </p>
 
 <h2 align="center">🚀 Open Source Projects and Contributions </h2>

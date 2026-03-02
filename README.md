@@ -24,10 +24,10 @@
 
 ###
 <ul>
-  <li>🛍️ https://github.com/taifdang/eshop</li>
-  <li>🖼️ https://github.com/taifdang/image-gallery</li>
-  <li>✨ https://github.com/taifdang/modular-monolith</li>
-  <li>🛒 https://github.com/taifdang/redis-shoppingcart-cscharp</li>
+  <li>🛍️ https://github.com/taidangduc/eshop</li>
+  <li>🖼️ https://github.com/taidangduc/image-gallery</li>
+  <li>✨ https://github.com/taidangduc/modular-monolith</li>
+  <li>🛒 https://github.com/taidangduc/redis-shoppingcart-cscharp</li>
 </ul>
 
 ###

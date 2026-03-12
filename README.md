@@ -27,7 +27,7 @@
   <li>🛍️ https://github.com/taidangduc/eshop-genai</li>
   <li>🖼️ https://github.com/taidangduc/image-gallery</li>
   <li>✨ https://github.com/taidangduc/modular-monolith</li>
-  <li>🛒 https://github.com/taidangduc/redis-shoppingcart-cscharp</li>
+  <li>🛒 https://github.com/taidangduc/shopping-cart</li>
 </ul>
 
 ###
